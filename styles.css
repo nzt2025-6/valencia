@@ -68,3 +68,11 @@ img {
     height: 100px;
     margin: 0;
 }
+
+.lila {
+background-image: url('lila.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 1500px;
+width: 1500px;
+}
