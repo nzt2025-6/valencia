@@ -56,3 +56,15 @@ img {
 .bild {
     margin-right: 50px;
 }
+
+.wrapper {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    inset: 30px;
+    width: 100px;
+    height: 100px;
+    margin: 0;
+}
